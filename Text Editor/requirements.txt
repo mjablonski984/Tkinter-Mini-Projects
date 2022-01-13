@@ -1,2 +1,2 @@
-Pillow==7.1.2
+Pillow==9.0.0
 tkfontchooser==2.0.2
